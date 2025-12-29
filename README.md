@@ -1,3 +1,4 @@
 # firstRepo
 This is my first repository.
-Author - Heera Wahengbam
+Author - Heera Wahengbam @heeraOp
+
